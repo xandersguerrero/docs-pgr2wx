@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-m3vily.ai-photo-stock.com/sitemap.xml
